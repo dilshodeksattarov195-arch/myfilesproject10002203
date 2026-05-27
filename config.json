@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentfync",
+        "uuid": 2954223,
+        "checksum": "w60j9"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
